@@ -1,0 +1,5 @@
+BO_ 236540158 EEC1: 8 Vector_XXX
+ SG_ EngineSpeed : 24|16@1+ (0.125,0) [0|8031.875] "rpm" Vector_XXX
+
+BO_ 2566844926 CCVS1: 8 Vector_XXX
+ SG_ WheelBaseVehicle : 8|16@1+ (0.00390625,0) [0|250.996] "km/h" Vector_XXX
